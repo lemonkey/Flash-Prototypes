@@ -20,6 +20,9 @@
  * and the distance from the vanishing point along
  * the XY axis.
  * 
+ * A demo is available at:
+ * http://aribraginsky.com/source/flash/graphics/3d/starfield/StarField/bin/
+ *
  * @author Ari Braginsky (contact@aribraginsky.com)
  * @version 1.0
  * 
